@@ -60,8 +60,6 @@ PHOTO_NAME=
 PHOTO_KEY=
 PHOTO_SECRET=
 ```
-frontend= https://github.com/bayuaria33/frontend-recipes-react
-
 
 ## API Reference
 
@@ -171,3 +169,12 @@ Auth:
 |Key |Value                |
 | :-------- |:------------------------- |
 | `bearer token` |**Required**. Login accessToken |
+
+
+# Related Project
+
+:rocket: [`Frontend Blanja`](https://github.com/abubakar-adeni/blanja)
+
+:rocket: [`Backend Blanja`](https://github.com/abubakar-adeni/backend-recipes)
+
+:rocket: [`Release APK`](https://github.com/abubakar-adeni/foodNative/tree/main/release)
