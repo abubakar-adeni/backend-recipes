@@ -5,7 +5,7 @@
 Backend API for RecipesApp and Recipes Web.
 RecipesApp is an Android app designed to exchange and discover recipes for cooking various dishes. It enables users to share recipes, along with detailed ingredient and cooking instructions.
 
-By Ariabayu
+By Abubakar Adeni
 
 ## Built with
 
