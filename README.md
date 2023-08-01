@@ -173,8 +173,10 @@ Auth:
 
 # Related Project
 
-:rocket: [`Frontend Blanja`](https://github.com/abubakar-adeni/blanja)
+:rocket: [`Frontend Food Recipe (Website)`](https://github.com/abubakar-adeni/react-food)
 
-:rocket: [`Backend Blanja`](https://github.com/abubakar-adeni/backend-recipes)
+:rocket: [`Frontend Food Recipe (App)`](https://github.com/abubakar-adeni/foodNative)
+
+:rocket: [`Backend Food Recipe`](https://github.com/abubakar-adeni/backend-recipes)
 
 :rocket: [`Release APK`](https://github.com/abubakar-adeni/foodNative/tree/main/release)
