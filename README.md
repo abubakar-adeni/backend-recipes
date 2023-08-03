@@ -173,7 +173,7 @@ Auth:
 
 # Related Project
 
-:rocket: [`Frontend Food Recipe (Website)`](https://github.com/abubakar-adeni/react-food)
+:rocket: [`Frontend Food Recipe (Website)`](https://github.com/abubakar-adeni/food-recipev1)
 
 :rocket: [`Frontend Food Recipe (App)`](https://github.com/abubakar-adeni/foodNative)
 
