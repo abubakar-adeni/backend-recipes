@@ -171,6 +171,13 @@ Auth:
 | `bearer token` |**Required**. Login accessToken |
 
 
+
+## Postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
+
+
+
 # Related Project
 
 :rocket: [`Frontend Food Recipe (Website)`](https://github.com/abubakar-adeni/food-recipev1)
