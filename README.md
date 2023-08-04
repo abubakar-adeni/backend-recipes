@@ -174,7 +174,7 @@ Auth:
 
 ## Postman
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/galactic-astronaut-447626/workspace/food-recipe/documentation/20247883-5743942f-ec35-4087-abb6-8046de305a8e)
 
 
 
